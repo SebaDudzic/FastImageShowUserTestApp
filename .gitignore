@@ -3,3 +3,8 @@
 
 Library/
 Temp
+Builds/
+
+*.sln
+
+*.csproj
