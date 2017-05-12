@@ -1,4 +1,5 @@
 
-FastImageShowUserTestApp/Library/
+\.vs/
 
-FastImageShowUserTestApp/Temp/
+Library/
+Temp
